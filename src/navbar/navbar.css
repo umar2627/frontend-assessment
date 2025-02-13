@@ -1,84 +1,84 @@
 .navbar-section {
-    width: 250px;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  width: 250px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .logo {
-    width: 200px;
-    height: fixed(64px);
-    padding: 10px;
-    gap: 10px;
-    margin-bottom: 15px;
-    font-size: 16px;
+  width: 200px;
+  height: fixed(64px);
+  padding: 10px;
+  gap: 10px;
+  margin-bottom: 15px;
+  font-size: 16px;
 }
 
 .navbar {
-    width: 200px;
-    height: 200px;
-    font-size: 12px;
+  width: 200px;
+  height: 200px;
+  font-size: 12px;
 }
 
-.navlist{
-    width: 200px;
-    height: 35px;
-    border-radius: 3px;
-    padding: 2px 4px 2px 10px;
-    display: flex;
-    align-items: center;
+.navlist {
+  width: 200px;
+  height: 35px;
+  border-radius: 3px;
+  padding: 2px 4px 2px 10px;
+  display: flex;
+  align-items: center;
 }
 
 .fonticon {
-    width: 15px;
-    height: 15px;
+  width: 15px;
+  height: 15px;
 }
 
 .navlink {
-    width: 100%;
-    height: auto;
-    text-decoration: none;
-    padding-left: 5px;
-    color: rgb(247, 247, 247) !important;
+  width: 100%;
+  height: auto;
+  text-decoration: none;
+  padding-left: 5px;
+  color: rgb(247, 247, 247) !important;
 }
 
 .active {
-    background-color: #70FE8C;
+  background-color: #70fe8c;
 }
 
 .card {
-    width: 200px;
-    height: 240px;
-    font-size: 12px;
-    margin-top: 5px;
+  width: 200px;
+  height: 240px;
+  font-size: 12px;
+  margin-top: 5px;
 }
 
 .cardheading {
-    width: 170px;
-    height: 16px;
-    padding: 10px 5px;
+  width: 170px;
+  height: 16px;
+  padding: 10px 5px;
 }
 
 .cardlist {
-    width: 200px;
-    height: 50px;
-    padding: 3px 4px;
-    display: flex;
-    align-items: center;
+  width: 200px;
+  height: 50px;
+  padding: 3px 4px;
+  display: flex;
+  align-items: center;
 }
 
 .cardimage {
-    width: 45px;
-    height: auto;
-    padding: 8px;
+  width: 45px;
+  height: auto;
+  padding: 8px;
 }
 
 .cardtext {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .thememode {
-    width: 200px;
-    height: 68px;
+  width: 200px;
+  height: 68px;
 }

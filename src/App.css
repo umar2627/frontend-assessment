@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -8,11 +8,11 @@
   flex-direction: row;
 }
 
-.dark-mode {
+/* .dark-mode {
   background-color: #282c34;
   color: white;
 }
 .light-mode {
   background-color: #ffffff;
   color: rgb(0, 0, 0);
-}
+} */
